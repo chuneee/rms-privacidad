@@ -1,0 +1,1 @@
+Esto es un repositorio para Politicas de privacidad de la aplicacion de RMS Geoespacial.
